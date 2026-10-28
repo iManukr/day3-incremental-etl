@@ -1,0 +1,6 @@
+[project]
+name = "day3-incremental-etl"
+version = "0.1.0"
+description = "Idempotent incremental loader for payment transaction batches"
+requires-python = ">=3.12"
+dependencies = []

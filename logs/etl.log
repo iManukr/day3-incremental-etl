@@ -1,0 +1,53 @@
+2026-10-28 17:49:11 INFO  Run started
+2026-10-28 17:49:11 INFO  Existing rows loaded: 20
+2026-10-28 17:49:11 INFO  Batch BATCH-2026-10-21-01: 17 records read
+2026-10-28 17:49:11 INFO  New: 7 | Updated: 3 | Duplicates: 5 | Invalid: 2
+2026-10-28 17:49:11 WARNING Invalid record index 9: missing transaction_id
+2026-10-28 17:49:11 WARNING Invalid record MP-50026: amount_kes must be positive (-350.00)
+2026-10-28 17:49:11 INFO  New MP-50021: Chandarana Kileleshwa 1,780.00 COMPLETED
+2026-10-28 17:49:11 INFO  New MP-50022: KPLC Prepaid 2,000.00 COMPLETED
+2026-10-28 17:49:11 INFO  New MP-50023: Quickmart Nyali 3,450.00 COMPLETED
+2026-10-28 17:49:11 INFO  New MP-50024: Goodlife Pharmacy 1,240.00 PENDING
+2026-10-28 17:49:11 INFO  New MP-50025: Text Book Centre 4,320.00 COMPLETED
+2026-10-28 17:49:11 INFO  New MP-50027: Nairobi Water 1,875.00 COMPLETED
+2026-10-28 17:49:11 INFO  New MP-50028: Naivas Westlands 2,265.00 COMPLETED
+2026-10-28 17:49:11 INFO  Duplicate MP-50021: repeated within the batch
+2026-10-28 17:49:11 INFO  Duplicate MP-50002: already loaded, no changes
+2026-10-28 17:49:11 INFO  Duplicate MP-50012: stale: updated_at 2026-10-20T13:00:00 is older than stored 2026-10-20T14:45:00
+2026-10-28 17:49:11 INFO  Duplicate MP-50013: already loaded, no changes
+2026-10-28 17:49:11 INFO  Duplicate MP-50019: already loaded, no changes
+2026-10-28 17:49:11 INFO  Updated MP-50004: status PENDING -> COMPLETED
+2026-10-28 17:49:11 INFO  Updated MP-50008: status PENDING -> FAILED
+2026-10-28 17:49:11 INFO  Updated MP-50015: amount_kes 960.00 -> 1,060.00, status PENDING -> COMPLETED
+2026-10-28 17:49:12 INFO  Rows after load: 27
+2026-10-28 17:49:12 INFO  Run finished in 0.05s
+2026-10-28 17:49:12 INFO  Run started
+2026-10-28 17:49:12 INFO  Existing rows loaded: 27
+2026-10-28 17:49:12 INFO  Batch BATCH-2026-10-21-01 already processed - skipping
+2026-10-28 17:49:12 INFO  New: 0 | Updated: 0 | Duplicates: 0 | Invalid: 0
+2026-10-28 17:49:12 INFO  Rows after load: 27
+2026-10-28 17:49:12 INFO  Run finished in 0.02s
+2026-10-28 17:49:20 INFO  Run started
+2026-10-28 17:49:20 INFO  Existing rows loaded: 27
+2026-10-28 17:49:20 INFO  Batch BATCH-2026-10-21-01: 17 records read
+2026-10-28 17:49:20 INFO  New: 0 | Updated: 0 | Duplicates: 15 | Invalid: 2
+2026-10-28 17:49:20 WARNING Invalid record index 9: missing transaction_id
+2026-10-28 17:49:20 WARNING Invalid record MP-50026: amount_kes must be positive (-350.00)
+2026-10-28 17:49:20 INFO  Duplicate MP-50021: repeated within the batch
+2026-10-28 17:49:20 INFO  Duplicate MP-50002: already loaded, no changes
+2026-10-28 17:49:20 INFO  Duplicate MP-50004: already loaded, no changes
+2026-10-28 17:49:20 INFO  Duplicate MP-50008: already loaded, no changes
+2026-10-28 17:49:20 INFO  Duplicate MP-50012: stale: updated_at 2026-10-20T13:00:00 is older than stored 2026-10-20T14:45:00
+2026-10-28 17:49:20 INFO  Duplicate MP-50013: already loaded, no changes
+2026-10-28 17:49:20 INFO  Duplicate MP-50015: already loaded, no changes
+2026-10-28 17:49:20 INFO  Duplicate MP-50019: already loaded, no changes
+2026-10-28 17:49:20 INFO  Duplicate MP-50021: already loaded, no changes
+2026-10-28 17:49:20 INFO  Duplicate MP-50022: already loaded, no changes
+2026-10-28 17:49:20 INFO  Duplicate MP-50023: already loaded, no changes
+2026-10-28 17:49:20 INFO  Duplicate MP-50024: already loaded, no changes
+2026-10-28 17:49:20 INFO  Duplicate MP-50025: already loaded, no changes
+2026-10-28 17:49:20 INFO  Duplicate MP-50027: already loaded, no changes
+2026-10-28 17:49:20 INFO  Duplicate MP-50028: already loaded, no changes
+2026-10-28 17:49:20 INFO  No new or updated rows, transactions.csv left unchanged
+2026-10-28 17:49:20 INFO  Rows after load: 27
+2026-10-28 17:49:20 INFO  Run finished in 0.01s

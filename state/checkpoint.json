@@ -1,0 +1,8 @@
+{
+  "last_run_at": "2026-10-28T17:49:20",
+  "processed_batches": [
+    "BATCH-2026-10-21-01"
+  ],
+  "high_watermark": "2026-10-21T11:05:00",
+  "row_count": 27
+}

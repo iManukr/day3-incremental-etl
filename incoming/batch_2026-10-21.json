@@ -1,0 +1,24 @@
+{
+  "batch_id": "BATCH-2026-10-21-01",
+  "generated_at": "2026-10-21T06:00:00",
+  "source": "payments-gateway",
+  "transactions": [
+    {"transaction_id": "MP-50004", "customer_id": "CUST-087", "merchant": "Kisumu Mega Hardware", "amount_kes": 12500.00, "status": "COMPLETED", "channel": "M-Pesa", "updated_at": "2026-10-21T07:02:00"},
+    {"transaction_id": "MP-50021", "customer_id": "CUST-145", "merchant": "Chandarana Kileleshwa", "amount_kes": 1780.00, "status": "COMPLETED", "channel": "M-Pesa", "updated_at": "2026-10-21T07:15:00"},
+    {"transaction_id": "MP-50002", "customer_id": "CUST-145", "merchant": "Java House Kimathi", "amount_kes": 820.00, "status": "COMPLETED", "channel": "M-Pesa", "updated_at": "2026-10-20T08:40:00"},
+    {"transaction_id": "MP-50022", "customer_id": "CUST-201", "merchant": "KPLC Prepaid", "amount_kes": 2000.00, "status": "COMPLETED", "channel": "M-Pesa", "updated_at": "2026-10-21T07:41:00"},
+    {"transaction_id": "MP-50008", "customer_id": "CUST-518", "merchant": "Nakuru Agrovet", "amount_kes": 7800.00, "status": "FAILED", "channel": "M-Pesa", "updated_at": "2026-10-21T08:05:00"},
+    {"transaction_id": "MP-50023", "customer_id": "CUST-310", "merchant": "Quickmart Nyali", "amount_kes": "3,450.00", "status": "COMPLETED", "channel": "Card", "updated_at": "2026-10-21T08:22:00"},
+    {"transaction_id": "MP-50019", "customer_id": "CUST-733", "merchant": "Carrefour Junction", "amount_kes": 8725.25, "status": "COMPLETED", "channel": "Card", "updated_at": "2026-10-20T19:12:00"},
+    {"transaction_id": "MP-50024", "customer_id": "CUST-604", "merchant": "Goodlife Pharmacy", "amount_kes": 1240.00, "status": "PENDING", "channel": "M-Pesa", "updated_at": "2026-10-21T09:00:00"},
+    {"transaction_id": "MP-50015", "customer_id": "CUST-412", "merchant": "Goodlife Pharmacy", "amount_kes": 1060.00, "status": "COMPLETED", "channel": "Card", "updated_at": "2026-10-21T09:18:00"},
+    {"transaction_id": null, "customer_id": "CUST-099", "merchant": "Shell Mombasa Rd", "amount_kes": 3500.00, "status": "COMPLETED", "channel": "M-Pesa", "updated_at": "2026-10-21T09:30:00"},
+    {"transaction_id": "MP-50025", "customer_id": "CUST-230", "merchant": "Text Book Centre", "amount_kes": 4320.00, "status": "COMPLETED", "channel": "M-Pesa", "updated_at": "2026-10-21T09:47:00"},
+    {"transaction_id": "MP-50021", "customer_id": "CUST-145", "merchant": "Chandarana Kileleshwa", "amount_kes": 1780.00, "status": "COMPLETED", "channel": "M-Pesa", "updated_at": "2026-10-21T07:15:00"},
+    {"transaction_id": "MP-50012", "customer_id": "CUST-145", "merchant": "Naivas Mombasa", "amount_kes": 2875.00, "status": "COMPLETED", "channel": "M-Pesa", "updated_at": "2026-10-20T13:00:00"},
+    {"transaction_id": "MP-50026", "customer_id": "CUST-087", "merchant": "Uber Kisumu", "amount_kes": -350.00, "status": "COMPLETED", "channel": "Card", "updated_at": "2026-10-21T10:12:00"},
+    {"transaction_id": "MP-50027", "customer_id": "CUST-518", "merchant": "Nairobi Water", "amount_kes": 1875.00, "status": "COMPLETED", "channel": "M-Pesa", "updated_at": "2026-10-21T10:40:00"},
+    {"transaction_id": "MP-50013", "customer_id": "CUST-310", "merchant": "Safaricom Airtime", "amount_kes": 500.00, "status": "COMPLETED", "channel": "M-Pesa", "updated_at": "2026-10-20T15:19:00"},
+    {"transaction_id": "MP-50028", "customer_id": "CUST-412", "merchant": "Naivas Westlands", "amount_kes": 2265.00, "status": "COMPLETED", "channel": "M-Pesa", "updated_at": "2026-10-21T11:05:00"}
+  ]
+}
